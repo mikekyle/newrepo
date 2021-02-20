@@ -14,4 +14,3 @@ print(s)
 d = json.loads(s)
 d["c"]
 
-print("CONECTD TO THE INTERNETZ")
