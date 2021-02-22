@@ -14,3 +14,4 @@ print(s)
 d = json.loads(s)
 d["c"]
 
+print "my excelent new feature"
